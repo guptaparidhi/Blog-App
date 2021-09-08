@@ -57,7 +57,7 @@ group :development do
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 
   #Get Better Errors
-  gem 'better_errors', '~> 2.7', '>= 2.7.1'
+  gem 'better_errors', '~> 2.8'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
